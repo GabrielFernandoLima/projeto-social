@@ -24,7 +24,7 @@ main {
     
 }
 
-section#tlefone {
+section#telefone {
     height: 627px;
     width: 311px;
     position: absolute;
@@ -32,11 +32,13 @@ section#tlefone {
     left: 50%;
     transform: translate(-50%, -50%);
     background: url(../imagens/frame-iphone.png) no-repeat;
-    min-width: 200px;
+    min-width: 280px;
+    
 
 }
 
 iframe#tela {
+    
     position: relative;
     top: 80px;
     left: 22px;
